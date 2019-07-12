@@ -2,7 +2,7 @@
 title: "Tab Completion Not Work in Ubuntu"
 tags: ["tab", "ubuntu"]
 date: 2019-07-11T14:58:01+08:00
-draft: true
+draft: false
 ---
 
 **Tab key auto completion not work in ubuntu.**

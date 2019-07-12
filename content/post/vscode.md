@@ -1,7 +1,7 @@
 ---
 title: "Visual studio code can't run in ubuntu, how to?"
 date: 2019-07-11T11:25:55+08:00
-draft: true
+draft: false
 tags: ["visual studio code", "ubuntu"]
 ---
 + **Root Cause**: 
